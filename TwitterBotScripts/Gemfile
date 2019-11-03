@@ -1,0 +1,8 @@
+source 'http://rubygems.org'
+
+gem 'twitter'
+gem 'twitterbot', git:'git@bitbucket.org:epasquali/twitterbot.git'
+
+group :development, :test do
+  gem 'pry'
+end

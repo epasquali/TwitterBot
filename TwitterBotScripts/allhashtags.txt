@@ -1,0 +1,1 @@
+#############Master list of interesting hashtags. When in use by script delete this first line.

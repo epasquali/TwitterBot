@@ -1,0 +1,1 @@
+###########List the hashtags you want your bot to reply to. One hashtag per line, and remember to delete this line.
