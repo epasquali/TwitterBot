@@ -1,0 +1,11 @@
+1. Periodically tweet normal advert deck to followers
+2. Reply to specific users who used particular hashtag (might want to invent a new hashtag)
+3. Retweet #hiring hashtags in interesting jobs. Maybe retweet just random ones
+4. Follow interesting users (by hashtag, location, or search term)
+5. Cull following list by cutting out unfollowers.
+
+BONUS FUNCTION:
+6. Data miner. 
+
+Might want to geo target to US, Austrailia, Canada
+

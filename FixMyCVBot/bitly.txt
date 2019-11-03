@@ -1,0 +1,4 @@
+This is a file/table of shortened urls. This can be done programmatically but since I only have two or
+three URLs I need to shorten I just list them here
+
+Tell-a-Friend Page: http://bit.ly/2uuORfd

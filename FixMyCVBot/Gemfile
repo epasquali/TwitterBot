@@ -1,0 +1,10 @@
+source 'http://rubygems.org'
+source 'https://9maVGWhDcxbLrf8-Zj3F@gem.fury.io/fixmycv/'
+
+gem 'twitter'
+gem 'twitterbot'
+#gem 'twitterbot', git:'git@bitbucket.org:epasquali/twitterbot.git'
+
+group :development, :test do
+  gem 'pry'
+end
